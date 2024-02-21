@@ -1,16 +1,28 @@
 # spine_fairy
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+척추요정 어플리케이션 (구글 스토어)  
+  
+## 앱 이름
+척추 요정  
+  
+## 소개
+현대인들의 생활 방식은 척추 건강에 부정적인 영향을 끼치고 있다.  
+휴대전화, 컴퓨터 등 전자기기의 발달은 현대인들의 장시간 앉은 자세를 유발하며, 대부분의 현대인은 운동 부족, 스트레스 문제 등 척추 건강에 좋지 않은 환경에 노출되어 있다.  
+이러한 문제점을 해결하고자 “척추 요정”은 사용자가 스스로 자세 교정을 하게끔 알림을 제공하며, 올바른 자세와 관련된 정보를 제공한다.  
+이를 통해, 현대인들의 자세 교정에 이바지하는 것이 해당 어플리케이션의 목표이다.  
+  
+## 기능
+### 척추 알림
+사용자가 설정한 시간대 중 무작위 시간에 사용자에게 올바른 자세를 유지하고 있는지 묻는 알림을 제공한다.  
+사용자는 자신이 해당 알림이 울렸을 때 자세가 올바르게 유지하고 있었는지, 혹은 잘못된 자세를 취하고 있었는지에 대한 기록을 남기게 된다.  
+이를 통해, 사용자의 자세가 올바르지 않았다면 자세를 고쳐앉게 되며, 평소에도 올바른 자세에 대한 경각심을 가지게 된다.  
+### 척추 정보
+올바른 자세를 어떻게 취해야 할지 모르는 사용자를 위해 올바른 자세와 척추 건강에 대한 정보를 제공한다.
+이를 통해, 사용자는 올바른 자세에 대한 정보를 쉽게 얻을 수 있다.
+ 
+### 척추 기록
+척추 알림을 통해 기록된 사용자의 평소 자세 정보를 통해 본인이 보통 자세를 어떻게 유지하는지 알 수 있다.  
+이러한 정보를 토대로 어플리케이션은 사용자에게 피드백을 제공하며, 이를 통해 사용자는 평소에도 올바른 자세를 유지하는 것을 의식하게 된다.  
+  
+## 폰트
+Noto Sans Korean  
+https://fonts.google.com/noto/specimen/Noto+Sans+KR/about?selection.family=Noto+Sans+KR&preview.text_type=custom  
